@@ -38,6 +38,7 @@ Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC (2/6).
   <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
   <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
   <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
+  <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"">
 </div>
 
 ---
