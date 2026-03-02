@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Gabriel Campanhã.
-Estudande de **Desenvolvimento de Software Multiplataforma** na FATEC (2/6).
+Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC (2/6).
 
 ---
 
