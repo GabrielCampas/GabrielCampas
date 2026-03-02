@@ -67,3 +67,5 @@ Redes sociais e meios de contato.
 - 💻 Foco em projetos voltados ao back-end;
 - 🧠 Foco em aprender mais sobre à área;
 - 🏆 Em busca de de oportunidades de estágio e consolidação na área.
+
+---
