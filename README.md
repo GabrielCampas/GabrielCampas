@@ -1,15 +1,10 @@
-<div align="center">
-
 # 👋 Olá, eu sou Gabriel Campanhã.
 Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC (2/6).
 
 ---
-  
-  
-  ## 🔌 Tecnologias: 
-</div>
+## 🔌 Tecnologias: 
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;"><br>
+<div style="display: flex; flex-wrap: wrap; gap: 15px;"><br>
   <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -19,13 +14,10 @@ Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC (2/6).
 </div>
 
 ---
-<div align="center">
-  
-## 📚 Atualmente estudando sobre...
 
-</div>
+## 📚 Atualmente estudando sobre..
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;"><br>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"><br>
   <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
   <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg"/>
   <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
@@ -33,13 +25,9 @@ Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC (2/6).
 </div>
 
 ---
-<div align="center">
-  
 ## 🔮 Também pretendo aprender:
 
-</div>
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;"><br>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"><br>
   <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
   <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
@@ -52,12 +40,8 @@ Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC (2/6).
 </div>
 
 ---
-<div align="center">
-  
 ## 📳 Sociais e contato:
 Redes sociais e meios de contato.
-
-
 
   <a href = "mailto:gabrielcampanhadef1@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -71,15 +55,10 @@ Redes sociais e meios de contato.
   <img src="https://img.shields.io/badge/INSTAGRAM-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
-</div>
-
 ---
-<div align="center">
-  
 ### 🔍 Sobre mim:
 - 💻 Foco em projetos voltados ao back-end;
 - 🧠 Foco em aprender mais sobre à área;
 - 🏆 Em busca de de oportunidades de estágio e consolidação na área.
 
-</div>
 ---
