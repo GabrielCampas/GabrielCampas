@@ -46,7 +46,10 @@
 - 🧠 Frequentemente empenhado em aprender mais sobre a àrea;
 - 🏆 Buscando oportunidades de estágio e consolidação na mesma.
 
-> Inteligência sem ambição é como um passáro sem asas.
+---
+
+> _Inteligência sem ambição é como um passáro sem asas. — Salvador Dalí._
+
 
 [![Footer LightMode](https://capsule-render.vercel.app/api?type=waving&height=160&color=333333&reversal=false&textBg=false&fontAlignY=50&section=footer)](https://capsule-render.vercel.app#gh-light-mode-only)
 
