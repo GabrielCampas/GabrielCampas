@@ -1,10 +1,10 @@
-<img widht=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=DBDBDB&reversal=false&textBg=false&fontAlignY=50#gh-dark-mode-only" alt="header-light"/>
+[![Header DarkMode](https://capsule-render.vercel.app/api?type=waving&height=160&color=DBDBDB&reversal=false&textBg=false&fontAlignY=50)](https://capsule-render.vercel.app#gh-dark-mode-only)
 
-<img widht=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=333333&reversal=false&textBg=false&fontAlignY=50#gh-light-mode-only" alt="header-black"/>
+[![Header LightMode](https://capsule-render.vercel.app/api?type=waving&height=160&color=333333&reversal=false&textBg=false&fontAlignY=50)](https://capsule-render.vercel.app#gh-light-mode-only)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=5500&pause=1000&color=DBDBDB&repeat=false&width=435&lines=Hello%2C+I'm+Gabriel+Campanh%C3%A3+o%2F)](https://git.io/typing-svg#gh-dark-mode-only)
+[![Typing SVG-DarkMode](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=5500&pause=1000&color=DBDBDB&repeat=false&width=435&lines=Hello%2C+I'm+Gabriel+Campanh%C3%A3+o%2F)](https://git.io/typing-svg#gh-dark-mode-only)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=5500&pause=1000&color=333333&repeat=false&width=435&lines=Hello%2C+I'm+Gabriel+Campanh%C3%A3+o%2F)](https://git.io/typing-svg#gh-light-mode-only)
+[![Typing SVG-LightMode](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=5500&pause=1000&color=333333&repeat=false&width=435&lines=Hello%2C+I'm+Gabriel+Campanh%C3%A3+o%2F)](https://git.io/typing-svg#gh-light-mode-only)
 
 ### Habilidades:
 
@@ -48,6 +48,6 @@
 
 > Inteligência sem ambição é como um passáro sem asas.
 
-<img widht=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=333333&reversal=false&textBg=false&fontAlignY=50&section=footer#gh-light-mode-only" alt="footer-black"/>
+[![Footer LightMode](https://capsule-render.vercel.app/api?type=waving&height=160&color=333333&reversal=false&textBg=false&fontAlignY=50&section=footer)](https://capsule-render.vercel.app#gh-light-mode-only)
 
-<img widht=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=DBDBDB&reversal=false&textBg=false&fontAlignY=50&section=footer#gh-dark-mode-only" alt="footer-light"/>
+[![Footer DarkMode](https://capsule-render.vercel.app/api?type=waving&height=160&color=DBDBDB&reversal=false&textBg=false&fontAlignY=50&section=footer)](https://capsule-render.vercel.app#gh-dark-mode-only)
