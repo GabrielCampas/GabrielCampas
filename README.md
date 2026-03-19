@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [![Header DarkMode](https://capsule-render.vercel.app/api?type=waving&height=120&color=EDEDED&reversal=false&textBg=false&fontAlignY=50)](https://capsule-render.vercel.app#gh-dark-mode-only)
 
 [![Header LightMode](https://capsule-render.vercel.app/api?type=waving&height=120&color=333333&reversal=false&textBg=false&fontAlignY=50)](https://capsule-render.vercel.app#gh-light-mode-only)
