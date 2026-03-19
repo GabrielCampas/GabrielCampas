@@ -1,6 +1,6 @@
-[![Header DarkMode](https://capsule-render.vercel.app/api?type=waving&height=160&color=EDEDED&reversal=false&textBg=false&fontAlignY=50)](https://capsule-render.vercel.app#gh-dark-mode-only)
+[![Header DarkMode](https://capsule-render.vercel.app/api?type=waving&height=120&color=EDEDED&reversal=false&textBg=false&fontAlignY=50)](https://capsule-render.vercel.app#gh-dark-mode-only)
 
-[![Header LightMode](https://capsule-render.vercel.app/api?type=waving&height=160&color=333333&reversal=false&textBg=false&fontAlignY=50)](https://capsule-render.vercel.app#gh-light-mode-only)
+[![Header LightMode](https://capsule-render.vercel.app/api?type=waving&height=120&color=333333&reversal=false&textBg=false&fontAlignY=50)](https://capsule-render.vercel.app#gh-light-mode-only)
 
 [![Typing SVG-DarkMode](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=5500&pause=1000&color=EDEDED&repeat=false&width=435&lines=Hello%2C+I'm+Gabriel+Campanh%C3%A3+o%2F)](https://git.io/typing-svg#gh-dark-mode-only)
 
@@ -51,6 +51,6 @@
 > _Inteligência sem ambição é como um passáro sem asas. — Salvador Dalí._
 
 
-[![Footer LightMode](https://capsule-render.vercel.app/api?type=waving&height=160&color=333333&reversal=false&textBg=false&fontAlignY=50&section=footer)](https://capsule-render.vercel.app#gh-light-mode-only)
+[![Footer LightMode](https://capsule-render.vercel.app/api?type=waving&height=120&color=333333&reversal=false&textBg=false&fontAlignY=50&section=footer)](https://capsule-render.vercel.app#gh-light-mode-only)
 
-[![Footer DarkMode](https://capsule-render.vercel.app/api?type=waving&height=160&color=EDEDED&reversal=false&textBg=false&fontAlignY=50&section=footer)](https://capsule-render.vercel.app#gh-dark-mode-only)
+[![Footer DarkMode](https://capsule-render.vercel.app/api?type=waving&height=120&color=EDEDED&reversal=false&textBg=false&fontAlignY=50&section=footer)](https://capsule-render.vercel.app#gh-dark-mode-only)
