@@ -6,6 +6,8 @@
 
 [![Typing SVG-LightMode](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=5500&pause=1000&color=333333&repeat=false&width=435&lines=Hello%2C+I'm+Gabriel+Campanh%C3%A3+o%2F)](https://git.io/typing-svg#gh-light-mode-only)
 
+---
+
 ### Habilidades:
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px;"><br>
